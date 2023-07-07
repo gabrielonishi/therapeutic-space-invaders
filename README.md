@@ -1,13 +1,15 @@
 # Projeto Embarcados
 
-Desenvolvendo um controle remoto.
+Desenvolvendo um controle remoto para Space Invaders utilizando o microchip SAME70-XPLD e alguns periféricos. Feito como Projeto final de Computação Embarcada, disciplina do 5° Semestre de Engenharia de Computação do Insper.
+
+**OBS:** Esse projeto utiliza a versão do clássico jogo Space Invaders reconstruído para PyGame por [Higor Santos](https://github.com/HigorSnt) e [Mateus Alves](https://github.com/mateustranquilino).
 
 ## Entrega 1
 
 ### Integrantes
 
-- Gabriel Onishi
-- Sarah Pimenta
+- [Gabriel Onishi](https://github.com/gabrielonishi)
+- [Sarah Pimenta](https://github.com/sarahp31)
 
 ### Ideia
 
